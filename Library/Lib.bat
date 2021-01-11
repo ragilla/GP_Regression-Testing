@@ -1,2 +1,2 @@
 pip install pytest
-pit install selenium
+pip install selenium
